@@ -1,0 +1,18 @@
+<resources>
+    <string-array name="std6">
+        <item>"தமிழ்"</item>
+        <item>"ஆங்கிலம்"</item>
+        <item>"கணிதம்"</item>
+        <item>"அறிவியல்"</item>
+        <item>"சமூக அறிவியல்"</item>
+        <item>"Tamil"</item>
+        <item>"English"</item>
+        <item>"Maths"</item>
+        <item>"Science"</item>
+        <item>"Social Science"</item>
+    </string-array>
+    <string-array name="std6link">
+        <item>""</item>
+        <item>""</item>
+    </string-array>
+</resources>

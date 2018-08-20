@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TN TextBooks</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="admob_bottom">ca-app-pub-2564405720285271/2715203549</string>
+    <string name="title_activity_book_list">Available Books</string>
+    <string name="admob_menu_int">ca-app-pub-2564405720285271/2133321519</string>
+</resources>
